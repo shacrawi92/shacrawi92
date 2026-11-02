@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Abdishakur 👋
+# Hi, I'm Shacrawi 👋
 
 ### Developer · Systems Engineer · Independent AI Researcher
 
 **I build SaaS products for clinics, pharmacies, schools and businesses in East Africa, and I test the limits of generative AI.**
 
-📍 Jijiga, Ethiopia · 🌐 [shacrawi.com](https://shacrawi.com) · ✉️ [info@shacrawi.com](mailto:info@shacrawi.com)
+📍 · 🌐 [shacrawi.com](https://shacrawi.com) · ✉️ [info@shacrawi.com](mailto:info@shacrawi.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdishakur-mahdi-abdirahman-7612a9322/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22382550/shacrawi92)
